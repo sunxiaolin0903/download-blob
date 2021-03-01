@@ -3,7 +3,7 @@
 npm install -g download-blob
 
 #github
-https://github.com/shiyuan598/FrontEnd/tree/master/npm/datetime-format
+https://github.com/sunxiaolin0903/download-blob.git/
 
 #usage
 let downloadFileByBlob = require('./index')
